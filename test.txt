@@ -1,0 +1,5 @@
+pot,pot,opt,godi,dogi,cat,tac
+pro,tro,franc,ranfc,rop,water,treaw
+root,toor,tro,ort,lamp,foo,malp
+kindle,xbox,playstation,gamecube,meucagbe,boxx,ledink,linked,stationplay
+book,cook,hook,took,obok,ocok,kooh,off
