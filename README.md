@@ -7,3 +7,5 @@ Time complexity (worst and average cases): O (n+m) where n is the number of elem
 
 Space complexity (worst and average cases): O (2m+1) where m is the number of unique identifiers/indexes  of the anagram set and 1 represent s the variable $pattern
 
+For more about this set of codes, please read this article: 
+http://codijuana.blogspot.com/2013/10/anagram-erewhon-is-nowhere.html
